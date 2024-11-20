@@ -1,0 +1,6 @@
+Installation
+
+Prerequisites
+Python 3.9 or higher
+Conda (preferred) or pip
+Git
